@@ -1,2 +1,2 @@
-# SoftUni_C#_Fundamentals
+# SoftUni_CSharp_Fundamentals
 Exercises
