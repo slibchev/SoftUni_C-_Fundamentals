@@ -1,2 +1,2 @@
-# SoftUni_C-_Fundamentals
+# SoftUni_C#_Fundamentals
 Exercises
