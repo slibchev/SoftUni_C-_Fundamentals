@@ -1,2 +1,3 @@
 # SoftUni_CSharp_Fundamentals
 Exercises
+All preblems from BasicSyntaxConditionalStatementsAndLoops_LAB are Pushed!
