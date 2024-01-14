@@ -1,3 +1,3 @@
 # SoftUni_CSharp_Fundamentals
-Exercises
+BasicSyntaxConditionalStatements_Loops_and_Exercise
 
